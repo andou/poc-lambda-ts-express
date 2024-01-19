@@ -1,0 +1,9 @@
+project_name: poc-lambda-ts-express
+component_name: main
+tracing: Active
+owner: a.pastorino
+lambda_root_dir: logic
+lambda_src_dir: src
+lambda_retention_period: 14
+account_number: "your-account-number"
+region: your-region
